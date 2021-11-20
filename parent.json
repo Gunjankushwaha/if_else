@@ -1,0 +1,48 @@
+{
+    "data": [
+        {
+            "id": "3511",
+            "parent_exercise_id": null,
+            "name": "0 and 1",
+            "slug": "number-row-tg__keys_0_1",
+            "sequence_num": 0,
+            "review_type": "manual",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/number-row-tg/keys_0_1.md",
+            "submission_type": null,
+            "childExercises": []
+        },
+        {
+            "id": "3509",
+            "parent_exercise_id": null,
+            "name": "1, 2 and 3",
+            "slug": "number-row-tg__keys_1_2_3",
+            "sequence_num": 100,
+            "review_type": "manual",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/number-row-tg/keys_1_2_3.md",
+            "submission_type": null,
+            "childExercises": []
+        },
+        {
+            "id": "3510",
+            "parent_exercise_id": null,
+            "name": "4, 5 and 6",
+            "slug": "number-row-tg__keys_4_5_6",
+            "sequence_num": 200,
+            "review_type": "manual",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/number-row-tg/keys_4_5_6.md",
+            "submission_type": null,
+            "childExercises": []
+        },
+        {
+            "id": "3512",
+            "parent_exercise_id": null,
+            "name": "7, 8 and 9",
+            "slug": "number-row-tg__keys_7_8_9",
+            "sequence_num": 300,
+            "review_type": "manual",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/number-row-tg/keys_7_8_9.md",
+            "submission_type": null,
+            "childExercises": []
+        }
+    ]
+}

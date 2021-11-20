@@ -1,0 +1,12 @@
+{
+    "id": "3511",
+    "parent_exercise_id": null,
+    "name": "0 and 1",
+    "slug": "number-row-tg__keys_0_1",
+    "sequence_num": 0,
+    "review_type": "manual",
+    "solution": null,
+    "content": "[\"{\\\"type\\\":\\\"markdown\\\",\\\"value\\\":\\\"keys_0_1_key1\\\\nkeys_0_1_key2\\\\n\\\\n\\\\nkeys_0_1_key3\\\\n\\\\n\\\\n\\\\n\\\"}\",\"{\\\"type\\\":\\\"practicetyping\\\",\\\"value\\\":{\\\"code\\\":\\\"0,1,1,1,0,1,0,0,1,0,1,1,0,1,0,1,0,1,1,1,0,1,0,0,1\\\",\\\"testCases\\\":[]}}\"]",
+    "submission_type": null,
+    "github_link": "https://github.com/navgurukul/newton/tree/master/number-row-tg/keys_0_1.md"
+}
